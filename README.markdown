@@ -18,6 +18,12 @@ This cheatsheet is available in many languages. Since the translation rely on vo
 - [繁體中文版](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/繁體中文)
 - [Bahasa Indonesia](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Indonesia)
 - [Deutsch](https://github.com/0nn0/terminal-mac-cheatsheet/tree/master/Deutsch)
+- [Urdu] (//TODO)
+- [Modern Standard Arabic](//TODO)
+- [Nigerian Pidgin](//TODO)
+- [Marathi](//TODO)
+- [Telugu](//TODO)
+- [Tamil](//TODO)
 
 ## English Version
 
